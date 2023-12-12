@@ -5,6 +5,6 @@ Jupyter notebook to analyze tides at user-defined locations
 2) Define your analysis location from NOAA Tides + Currents with station_num in tides_analyze.ipynb
 3) Run plots, will output a map of your chosen location along with the time series of model zeta vs MSL
 
-   -Joseph B. Zambon
-   jbzambon@fathomscience.com
+   Joseph B. Zambon\
+   jbzambon@fathomscience.com\
    12 December 2023
